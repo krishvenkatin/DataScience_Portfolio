@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me:
-**Name:** [Venkat]
+**Name:** Venkat
 
 I am a passionate data scientist with expertise in various domains including healthcare, economics, and telecommunications. With a strong background in statistical analysis, machine learning, and data visualization, I have worked on several projects aimed at deriving actionable insights from data.
 
