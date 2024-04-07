@@ -38,6 +38,6 @@ I am a passionate data scientist with expertise in various domains including hea
 **Description:** Developing a predictive model to forecast employee turnover rates in corporate environments.
 
 ## Additional Information:
-- All code and project files can be found in my GitHub repository: [Link to your GitHub repository]
+- All code and project files can be found in my GitHub repository: (https://github.com/krishvenkatin/DataScience_Portfolio)
 - Feel free to reach out to me for collaborations or inquiries regarding any of the projects mentioned above.
 
