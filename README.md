@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me:
-**Name:** Venkat
+**Name:** [Venkat]
 
 I am a passionate data scientist with expertise in various domains including healthcare, economics, and telecommunications. With a strong background in statistical analysis, machine learning, and data visualization, I have worked on several projects aimed at deriving actionable insights from data.
 
@@ -13,7 +13,7 @@ I am a passionate data scientist with expertise in various domains including hea
 ### 2. Suicide Rates and GDP
 **Description:** Investigating the correlation between suicide rates and GDP levels across different countries to identify potential indicators for prevention strategies.
 
-### 3. Telecommunication Churn Prediction
+### 3. [Telecommunication Churn Prediction](https://github.com/krishvenkatin/TelecomChurn)
 **Description:** Building a predictive model to forecast customer churn in the telecommunication industry.
 
 ### 4. Prediction Housing Prices in California
@@ -31,13 +31,13 @@ I am a passionate data scientist with expertise in various domains including hea
 ### 8. Airline Safety Visualization
 **Description:** Visualizing airline safety data to identify patterns and trends in aviation incidents.
 
-### 9. Fraud Detection in Financial Transactions
+### 9. [Fraud Detection in Financial Transactions](https://github.com/krishvenkatin/CreditCardFraudDetection)
 **Description:** Building a fraud detection system for identifying fraudulent transactions in financial data.
 
 ### 10. Predicting Employee Turnover in a Corporate Setting
 **Description:** Developing a predictive model to forecast employee turnover rates in corporate environments.
 
 ## Additional Information:
-- All code and project files can be found in my GitHub repository: (https://github.com/krishvenkatin/DataScience_Portfolio)
+- All code and project files can be found in my GitHub repository: [Link to your GitHub repository]
 - Feel free to reach out to me for collaborations or inquiries regarding any of the projects mentioned above.
 
