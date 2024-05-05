@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me:
-**Name:** [Venkat]
+**Name:** Venkat Radhakrishnan
 
 I am a passionate data scientist with expertise in various domains including healthcare, economics, and telecommunications. With a strong background in statistical analysis, machine learning, and data visualization, I have worked on several projects aimed at deriving actionable insights from data.
 
@@ -19,7 +19,7 @@ I am a passionate data scientist with expertise in various domains including hea
 ### 4. Prediction Housing Prices in California
 **Description:** Developing a machine learning model to predict housing prices in California based on various features.
 
-### 5. Weather Application
+### 5. [Weather Application](https://github.com/krishvenkatin/WeatherForecast)
 **Description:** Creating a weather application that provides real-time weather updates using APIs.
 
 ### 6. Leveraging Big data Technologies for Retail Analytics
