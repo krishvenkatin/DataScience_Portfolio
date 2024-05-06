@@ -3,7 +3,7 @@
 ## About Me:
 **Name:** Venkat Radhakrishnan
 
-I am a passionate data scientist with expertise in various domains including healthcare, economics, and telecommunications. With a strong background in statistical analysis, machine learning, and data visualization, I have worked on several projects aimed at deriving actionable insights from data.
+I am a passionate data scientist with expertise in various domains including Payments and bacnking. With a strong background in statistical analysis, machine learning, and data visualization, I have worked on several projects aimed at deriving actionable insights from data.
 
 ## Projects:
 
