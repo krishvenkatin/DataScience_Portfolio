@@ -34,10 +34,10 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 9. [Fraud Detection in Financial Transactions](https://github.com/krishvenkatin/CreditCardFraudDetection)
 **Description:** Building a fraud detection system for identifying fraudulent transactions in financial data.
 
-### 10. Sentiment Analysis  of Twitter Airline tweets
+### 10. [Sentiment Analysis  of Twitter Airline tweets](https://github.com/krishvenkatin/Sentiment-Analysis-Twitter-Airline)
 **Description:** Developing a predictive model to forecast employee turnover rates in corporate environments.
 
 ## Additional Information:
-- All code and project files can be found in my GitHub repository: [Link to your GitHub repository]
+- All code and project files can be found in my GitHub repository
 - Feel free to reach out to me for collaborations or inquiries regarding any of the projects mentioned above.
 
