@@ -34,7 +34,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 9. [Fraud Detection in Financial Transactions](https://github.com/krishvenkatin/CreditCardFraudDetection)
 **Description:** Building a fraud detection system for identifying fraudulent transactions in financial data.
 
-### 10. Predicting Employee Turnover in a Corporate Setting
+### 10. Sentiment Analysis  of Twitter Airline tweets
 **Description:** Developing a predictive model to forecast employee turnover rates in corporate environments.
 
 ## Additional Information:
