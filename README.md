@@ -10,7 +10,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 1. Covid Pandemic and its Impact
 **Description:** Analyzing the impact of the Covid-19 pandemic on population demographics and GDP using data from three distinct sources.
 
-### 2. Suicide Rates and GDP
+### 2. [Suicide Rates and GDP](https://github.com/krishvenkatin/Suicide_Rates_GDP_EDA)
 **Description:** Investigating the correlation between suicide rates and GDP levels across different countries to identify potential indicators for prevention strategies.
 
 ### 3. [Telecommunication Churn Prediction](https://github.com/krishvenkatin/TelecomChurn)
