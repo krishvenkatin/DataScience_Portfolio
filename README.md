@@ -28,7 +28,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 7. [Suicide Rates EDA Analysis with R](https://github.com/krishvenkatin/Suicide_Rate_Analysis_in_R)
 **Description:** Conducting exploratory data analysis of suicide rates using R programming language.
 
-### 8. Airline Safety Visualization
+### 8. [Airline Safety Visualization](https://github.com/krishvenkatin/Airline_Safety_Visualization)
 **Description:** Visualizing airline safety data to identify patterns and trends in aviation incidents.
 
 ### 9. [Fraud Detection in Financial Transactions](https://github.com/krishvenkatin/CreditCardFraudDetection)
