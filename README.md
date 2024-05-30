@@ -25,7 +25,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 6. Leveraging Big data Technologies for Retail Analytics
 **Description:** Utilizing big data technologies to analyze customer behavior and optimize retail operations.
 
-### 7. Suicide Rates EDA Analysis with R
+### 7. [Suicide Rates EDA Analysis with R](https://github.com/krishvenkatin/Suicide_Rate_Analysis_in_R)
 **Description:** Conducting exploratory data analysis of suicide rates using R programming language.
 
 ### 8. Airline Safety Visualization
