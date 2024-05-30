@@ -16,7 +16,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 3. [Telecommunication Churn Prediction](https://github.com/krishvenkatin/TelecomChurn)
 **Description:** Building a predictive model to forecast customer churn in the telecommunication industry.
 
-### 4. Prediction Housing Prices in California
+### 4. [Prediction Housing Prices in California](https://github.com/krishvenkatin/Predict_Housing_price_CA)
 **Description:** Developing a machine learning model to predict housing prices in California based on various features.
 
 ### 5. [Weather Application](https://github.com/krishvenkatin/WeatherForecast)
