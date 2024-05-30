@@ -7,7 +7,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 
 ## Projects:
 
-### 1. Covid Pandemic and its Impact
+### 1. [Covid Pandemic and its Impact](https://github.com/krishvenkatin/Covid_and_its_impact)
 **Description:** Analyzing the impact of the Covid-19 pandemic on population demographics and GDP using data from three distinct sources.
 
 ### 2. [Suicide Rates and GDP](https://github.com/krishvenkatin/Suicide_Rates_GDP_EDA)
