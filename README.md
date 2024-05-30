@@ -22,7 +22,7 @@ I am a passionate data scientist with expertise in various domains including Pay
 ### 5. [Weather Application](https://github.com/krishvenkatin/WeatherForecast)
 **Description:** Creating a weather application that provides real-time weather updates using APIs.
 
-### 6. Leveraging Big data Technologies for Retail Analytics
+### 6. [Leveraging Big data Technologies for Retail Analytics](https://github.com/krishvenkatin/Bigdata_Retail_Analytics)
 **Description:** Utilizing big data technologies to analyze customer behavior and optimize retail operations.
 
 ### 7. [Suicide Rates EDA Analysis with R](https://github.com/krishvenkatin/Suicide_Rate_Analysis_in_R)
